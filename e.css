@@ -578,3 +578,7 @@ button[type="submit"]:hover {
         padding: 8px 15px;
     }
 }
+#contact{
+    justify-content: center;
+    align-items: center;
+}
